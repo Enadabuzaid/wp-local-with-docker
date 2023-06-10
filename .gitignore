@@ -1,2 +1,4 @@
 .env
 ./wordpress
+./idea
+/wordpress
